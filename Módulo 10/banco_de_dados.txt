@@ -2,6 +2,4 @@
 
 1:Mateus:mateus@gmail.com
 2:joao:jao@gmail.com
-3:Gabriel:gabriel@gmail.com
-4:Carlos:carlos@gmail.com
 # Banco de Dados de Usuário
